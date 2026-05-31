@@ -1,7 +1,3 @@
-# Generated pipeline outputs (keep the folder, ignore its contents)
-results/*
-!results/.gitkeep
-
 # MATLAB artifacts
 *.asv
 *.m~
