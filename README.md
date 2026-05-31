@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-R2026a-orange?logo=mathworks&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/Image%20Processing%20Toolbox-required-blue" alt="IPT">
-  <img src="https://img.shields.io/badge/domain-computational%20astrophysics-black" alt="domain">
   <img src="https://img.shields.io/badge/technique-scale--space%20filtering-purple" alt="technique">
 </p>
 
